@@ -64,3 +64,8 @@ The key benefits of using renewable energy are:
 
 1. Reduced dependence on non-renewable energy sources such as fossil fuels, which are finite and polluting.
 2. Reduced emissions of greenhouse gases, which are contributing to global warming and climate change.
+
+## Sample Code
+
+![Image displaying sample code in VS code.](images/API.png.png)
+
