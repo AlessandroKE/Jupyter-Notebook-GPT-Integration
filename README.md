@@ -67,5 +67,5 @@ The key benefits of using renewable energy are:
 
 ## Sample Code
 
-![Image displaying sample code in VS code.](images/API.png)
+![Image displaying sample code in VS code.](./Images/API.png)
 
